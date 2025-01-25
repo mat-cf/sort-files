@@ -1,3 +1,15 @@
+## About
+A Python sorting script that separetes files according to MIME definitions in:
+- **Audio** (``` .wav ```, ``` .mp3 ```, ``` .flac ...```)
+- **Compressed Files** (``` .rar ```, ``` .zip ```, ``` .7z ```, ...)
+- **Images** (``` .png ```, ``` .jpg ```, ``` .jpeg ```, ``` .gif ```, ...)
+- **Installers** (``` .exe ```, ``` .msi ```, ...)
+- **Shortcuts** (``` .lnk ```, ``` .url ```, ``` .webloc ```, ...)
+- **Torrent** (``` .torrent ```)
+- **Videos** (``` .mp4 ```, ``` .mov ```, ``` .avi ```, ``` .mkv ```, ...)
+- **Documents** (``` .pdf ```, ``` .docx ```, ``` .xlsx ```, ``` .pptx ```, ...)
+- **Others** (Other uncategorized file types)
+
 ## Installation
 
 ### 1. Clone the repository
